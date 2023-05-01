@@ -1,0 +1,91 @@
+__Lrdata 3C FFFFFFC7 DATA
+__Hrbss 3C 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 3 0 CODE
+__Birdata 3 FFFFFFC7 DATA
+__Hirdata 3C FFFFFFC7 DATA
+__Lirdata 3C FFFFFFC7 DATA
+powerup 58 0 CODE
+__Htext 3C 0
+__Ltext 3C 0
+?a_tput 3B 0 DATA
+strx_copy 19 0 CODE
+__Hcode 3C 0
+__Lcode 3C 0
+__Hdata 119 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 3C 0 XDATA
+__Hbss 3C 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 3C 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 3 0 CODE
+__S0 241 0
+start1 44 0 CODE
+__Hnvram 3C 0 XDATA
+small_model 1 0
+__Lnvram 3C 0 XDATA
+__Hheap 3C 0 XDATA
+__Lheap 3C 0 XDATA
+_main 12D 0 CODE
+str_copy 19 0 CODE
+?a_main 20 0 DATA
+_exit 55 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+_tput 119 0 CODE
+strx_load 19 0 CODE
+__Brbit 20 20 BITSEG
+str_load 19 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 3C 0 DATA
+__Hidata 3C 0 DATA
+__Lidata 3C 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFC7 DATA
+__Hrdata 3C FFFFFFC7 DATA
+%segments
+vectors 0 5A CODE
+rbit 0 1B BITSEG
+data 100 240 CODE
+%locals
+Z:\main_0.obj
+D:\PRACTI~1\PRACTI~1\main.c
+4 119 0 CODE
+5 11B 0 CODE
+6 11D 0 CODE
+7 128 0 CODE
+8 12A 0 CODE
+11 12D 0 CODE
+13 130 0 CODE
+14 13F 0 CODE
+15 14E 0 CODE
+16 15D 0 CODE
+17 160 0 CODE
+18 163 0 CODE
+19 165 0 CODE
+20 168 0 CODE
+22 17F 0 CODE
+23 186 0 CODE
+24 189 0 CODE
+20 193 0 CODE
+26 1AB 0 CODE
+27 1B0 0 CODE
+29 1C7 0 CODE
+30 1CE 0 CODE
+31 1D1 0 CODE
+27 1DB 0 CODE
+33 1F3 0 CODE
+34 1F8 0 CODE
+36 20F 0 CODE
+37 216 0 CODE
+38 219 0 CODE
+34 223 0 CODE
+40 23B 0 CODE
+41 23D 0 CODE
