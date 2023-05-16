@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\3курс\2 семестр\Земцов\Лабы\Лаба3\Project37\Source.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\3курс\2 семестр\Земцов\Лабы\Лаба3\Project37\Source.cpp(28,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\3курс\2 семестр\Земцов\Лабы\Лаба3\Project37\Source.cpp(30,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\3курс\2 семестр\Земцов\Лабы\Лаба3\Project37\Source.cpp(12,9): warning C4101: D: неиспользованная локальная переменная
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  Project37.vcxproj -> E:\3курс\2 семестр\Земцов\Лабы\Лаба3\Project37\Debug\Project37.exe
